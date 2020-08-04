@@ -23,7 +23,7 @@ For access, please register for a free ticket at https://juliacon.org/2020
         julia> Pkg.add("IntervalArithmetic")
         julia> Pkg.add("IntervalRootFinding")
         julia> Pkg.add("IntervalConstraintProgramming")
-        julia> Pkg.add("IntervalOptimization")
+        julia> Pkg.add("IntervalOptimisation")
 
 
 - Once those packages have finished installing (which will install a collection of other packages that these depend on), type
